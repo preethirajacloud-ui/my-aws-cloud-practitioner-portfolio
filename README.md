@@ -1,4 +1,4 @@
-# aws-cloud-practitioner-projects
+# aws-cloud-practitioner-portfolio
 This repository contains hands-on AWS Cloud Practitioner–level projects demonstrating core AWS services through real-time practical implementations. 
 The goal of this repository is to build strong cloud fundamentals and showcase practical AWS experience for entry-level cloud roles. 
 
