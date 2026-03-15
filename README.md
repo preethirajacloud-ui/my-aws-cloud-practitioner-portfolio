@@ -32,7 +32,7 @@ ______________________
 - Cost Awareness
 - Cloud Architecture Understanding
 
-  ##📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![Preethi's GitHub stats](https://github-readme-stats.vercel.app/api?username=preethirajacloud-ui&show_icons=true)
 
