@@ -50,6 +50,7 @@ The goal of this repository is to build strong cloud fundamentals and showcase p
 
 ## 📫 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/preethi-m-r-8175903ab/ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preethi-m-r-8175903ab/)
+
 
 Email: preethiraja.cloud@gmail.com
