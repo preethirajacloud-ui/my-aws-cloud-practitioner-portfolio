@@ -1,3 +1,5 @@
+![Banner](MRPree.png)
+
 ## AWS-Cloud-Practitioner-Portfolio
 
 Hi, I'm Preethi M R.
