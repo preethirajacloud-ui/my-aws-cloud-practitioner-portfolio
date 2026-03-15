@@ -18,7 +18,7 @@ The goal of this repository is to build strong cloud fundamentals and showcase p
 
 ![Amazon CloudWatch](https://img.shields.io/badge/Amazon%20CloudWatch-Monitoring-purple?logo=amazon-aws)
 
-![AWS CloudTrail](https://img.shields.io/badge/AWS%20CloudTrail-Logging-lightgrey?logo=amazon-aws)
+![AWS CloudTrail](https://img.shields.io/badge/AWS%20CloudTrail-Logging-pink?logo=amazon-aws)
 
 ## Skills Demonstrated
 
