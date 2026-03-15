@@ -6,7 +6,7 @@ The goal of this repository is to build strong cloud fundamentals and showcase p
 
 ## ☁️ AWS Services Covered
 
-![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-Cloud-orange?logo=amazon-aws)
+![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-Instance-orange?logo=amazon-aws)
 
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-Storage-green?logo=amazon-aws)
 
