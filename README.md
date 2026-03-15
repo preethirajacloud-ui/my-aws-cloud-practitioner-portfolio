@@ -1,11 +1,10 @@
-# AWS-Cloud-Practitioner-Portfolio
+## AWS-Cloud-Practitioner-Portfolio
 
 Hi, I'm Preethi M R.
 This repository contains hands-on AWS Cloud Practitioner–level projects demonstrating core AWS services through real-time practical implementations. 
 The goal of this repository is to build strong cloud fundamentals and showcase practical AWS experience for entry-level cloud roles. 
 
 ## AWS Services Covered :
-   ______________________
 
 Amazon EC2 – Instance launch, security groups, monitoring
 Amazon S3 – Bucket creation, versioning, event notifications
@@ -13,8 +12,7 @@ AWS IAM – Users, roles, policies, security best practices
 Amazon CloudWatch – Metrics, alarms, SNS notifications
 Amazon SQS – Standard queues, producer-consumer model
 
-Skills Demonstrated
-______________________
+## Skills Demonstrated
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
 ![Python](https://img.shields.io/badge/Python-Programming-blue)
