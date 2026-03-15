@@ -4,7 +4,7 @@ Hi, I'm Preethi M R.
 This repository contains hands-on AWS Cloud Practitioner–level projects demonstrating core AWS services through real-time practical implementations. 
 The goal of this repository is to build strong cloud fundamentals and showcase practical AWS experience for entry-level cloud roles. 
 
-## AWS Services Covered :
+## AWS Services Covered 
 
 Amazon EC2 – Instance launch, security groups, monitoring
 Amazon S3 – Bucket creation, versioning, event notifications
@@ -34,6 +34,20 @@ Amazon SQS – Standard queues, producer-consumer model
 ## Visitor Counter
 
 ![Profile Views](https://komarev.com/ghpvc/?username=preethirajacloud-ui)
+
+## ☁️ Cloud Projects
+
+🔹 Asynchronous Messaging System using Amazon SQS
+
+🔹 AWS S3 Monitoring & Alerting with CloudWatch 
+
+🔹  EC2 Performance Monitoring with CloudWatch and SNS
+
+## 📫 Connect With Me
+
+LinkedIn: 
+
+Email: preethiraja.cloud@gmail.com
 
 ## Tools Used
    _____________
