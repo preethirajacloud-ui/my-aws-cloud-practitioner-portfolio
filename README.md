@@ -6,28 +6,33 @@ The goal of this repository is to build strong cloud fundamentals and showcase p
 
 ## ☁️ AWS Services Covered
 
-EC2 badge
-S3 badge
-SQS badge
-SNS badge
-IAM badge
-CloudWatch badge
-CloudTrail badge
+![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-Cloud-orange?logo=amazon-aws)
+
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-Storage-green?logo=amazon-aws)
+
+![Amazon SQS](https://img.shields.io/badge/Amazon%20SQS-Message%20Queue-blue?logo=amazon-aws)
+
+![Amazon SNS](https://img.shields.io/badge/Amazon%20SNS-Notification-yellow?logo=amazon-aws)
+
+![AWS IAM](https://img.shields.io/badge/AWS%20IAM-Security-red?logo=amazon-aws)
+
+![Amazon CloudWatch](https://img.shields.io/badge/Amazon%20CloudWatch-Monitoring-purple?logo=amazon-aws)
+
+![AWS CloudTrail](https://img.shields.io/badge/AWS%20CloudTrail-Logging-lightgrey?logo=amazon-aws)
 
 ## Skills Demonstrated
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+
 ![Python](https://img.shields.io/badge/Python-Programming-blue)
+
 ![Linux](https://img.shields.io/badge/Linux-System-yellow)
+
 ![Git](https://img.shields.io/badge/Git-VersionControl-red)
 
 ## 📊 GitHub Stats
 
 ![Preethi's GitHub stats](https://github-readme-stats.vercel.app/api?username=preethirajacloud-ui&show_icons=true)
-
-## Contribution
-
-![Snake animation](https://github.com/Platane/snk)
 
 ## Visitor Counter
 
@@ -39,7 +44,7 @@ CloudTrail badge
 
 🔹 AWS S3 Monitoring & Alerting with CloudWatch 
 
-🔹  EC2 Performance Monitoring with CloudWatch and SNS
+🔹 EC2 Performance Monitoring with CloudWatch and SNS
 
 ## 📫 Connect With Me
 
