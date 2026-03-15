@@ -1,4 +1,6 @@
-# aws-cloud-practitioner-portfolio
+# AWS-Cloud-Practitioner-Portfolio
+
+Hi, I'm Preethi M R.
 This repository contains hands-on AWS Cloud Practitioner–level projects demonstrating core AWS services through real-time practical implementations. 
 The goal of this repository is to build strong cloud fundamentals and showcase practical AWS experience for entry-level cloud roles. 
 
@@ -19,7 +21,12 @@ _______________________
 - Basic AWS Architecture Diagrams
 
 Skills Demonstrated
-_______________________
+______________________
+
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Python](https://img.shields.io/badge/Python-Programming-blue)
+![Linux](https://img.shields.io/badge/Linux-System-yellow)
+![Git](https://img.shields.io/badge/Git-VersionControl-red)
 - AWS Core Services
 - Cloud Security Basics
 - Cost Awareness
