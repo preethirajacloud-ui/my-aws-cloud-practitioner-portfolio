@@ -36,6 +36,8 @@ ______________________
 
 ![Preethi's GitHub stats](https://github-readme-stats.vercel.app/api?username=preethirajacloud-ui&show_icons=true)
 
+![Snake animation](https://github.com/Platane/snk)
+
 
 Tools Used
 _____________
