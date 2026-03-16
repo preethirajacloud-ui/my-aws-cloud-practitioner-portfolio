@@ -22,7 +22,7 @@ The goal of this repository is to build strong cloud fundamentals and showcase p
 
 ![AWS CloudTrail](https://img.shields.io/badge/AWS%20CloudTrail-Logging-pink?logo=amazon-aws)
 
-## Skills Demonstrated
+## 🚀 Skills Demonstrated
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
 
@@ -36,11 +36,11 @@ The goal of this repository is to build strong cloud fundamentals and showcase p
 
 ![Preethi's GitHub stats](https://github-readme-stats.vercel.app/api?username=preethirajacloud-ui&show_icons=true)
 
-## Visitor Counter
+## 👀 Visitor Counter
 
 ![Profile Views](https://komarev.com/ghpvc/?username=preethirajacloud-ui)
 
-## ☁️ Cloud Projects
+## ☁️ Cloud Projects 📂
 
 🔹 Asynchronous Messaging System using Amazon SQS
 
@@ -52,5 +52,4 @@ The goal of this repository is to build strong cloud fundamentals and showcase p
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preethi-m-r-8175903ab/)
 
-
-Email: preethiraja.cloud@gmail.com
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:preethiraja.cloud@gmail.com)
