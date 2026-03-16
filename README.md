@@ -1,10 +1,11 @@
 ![Banner](MRPree.png)
 
-## AWS-Cloud-Practitioner-Portfolio
+## 💼 AWS-Cloud-Practitioner-Portfolio
 
 Hi, I'm Preethi M R.
 This repository contains hands-on AWS Cloud Practitioner–level projects demonstrating core AWS services through real-time practical implementations. 
 The goal of this repository is to build strong cloud fundamentals and showcase practical AWS experience for entry-level cloud roles. 
+
 
 ## ☁️ AWS Services Covered
 
@@ -22,6 +23,7 @@ The goal of this repository is to build strong cloud fundamentals and showcase p
 
 ![AWS CloudTrail](https://img.shields.io/badge/AWS%20CloudTrail-Logging-pink?logo=amazon-aws)
 
+
 ## 🚀 Skills Demonstrated
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
@@ -32,13 +34,16 @@ The goal of this repository is to build strong cloud fundamentals and showcase p
 
 ![Git](https://img.shields.io/badge/Git-VersionControl-red)
 
+
 ## 📊 GitHub Stats
 
 ![Preethi's GitHub stats](https://github-readme-stats.vercel.app/api?username=preethirajacloud-ui&show_icons=true)
 
+
 ## 👀 Visitor Counter
 
 ![Profile Views](https://komarev.com/ghpvc/?username=preethirajacloud-ui)
+
 
 ## ☁️ Cloud Projects 📂
 
@@ -47,6 +52,7 @@ The goal of this repository is to build strong cloud fundamentals and showcase p
 🔹 AWS S3 Monitoring & Alerting with CloudWatch 
 
 🔹 EC2 Performance Monitoring with CloudWatch and SNS
+
 
 ## 📫 Connect With Me
 
