@@ -34,6 +34,8 @@ The goal of this repository is to build strong cloud fundamentals and showcase p
 
 ![Git](https://img.shields.io/badge/Git-VersionControl-red)
 
+![Networking](https://img.shields.io/badge/Networking-Troubleshooting-blue)
+
 
 ## 📊 GitHub Stats
 
@@ -52,6 +54,8 @@ The goal of this repository is to build strong cloud fundamentals and showcase p
 🔹 AWS S3 Monitoring & Alerting with CloudWatch 
 
 🔹 EC2 Performance Monitoring with CloudWatch and SNS
+
+🔹Cloud Networking Deep Dive: Troubleshooting Real-Time Issues in AWS
 
 
 ## 📫 Connect With Me
